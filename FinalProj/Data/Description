@@ -5,3 +5,5 @@
 # IowaCountiesFoodProgram.shp = shapefile for counties of Iowa, along with attribute table with food assistance rate data appended
 
 # iafoodprogram.csv = spreadsheet of county food assistance statistics. This is already found in the IowaCountiesFoodProgram.shp file attribute table, but I've included it for reference.
+
+# NewFARate19 and NewFARate22 are both produced by running the code (FoodAssistancebyCounty2019.ipynb, FoodAssistancebyCounty2022.ipynb), but I've included them here for reference.
