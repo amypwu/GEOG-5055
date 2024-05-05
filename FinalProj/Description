@@ -1,4 +1,17 @@
 # Final Project Description
+
+# FILES:
 # IOWA FOOD ASSISTANCE RATES BY COUNTY
 # PRE-INFLATION AND POST-INFLATION
 # Investigating the difference in food assistance rates prior to the great inflation surge of 2022
+
+# STEPS:
+# Open ArcGIS Pro
+# 1) Open FoodAssistancebyCounty2019.ipynb
+# 2) Use appropriate file paths to access /Data folder in work environment
+# 3) Run all code. 
+# 4) Open FoodAssistancebyCounty2023.ipynb
+# 5) Use appropriate file paths to access /Data folder in work environment
+# 6) Run all code.
+
+
