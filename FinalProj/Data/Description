@@ -1,0 +1,7 @@
+# Data Files & Description:
+# CountyPopulations.csv = spreadsheet of county populations by year
+# (2023 county populations were not yet published at the time of making this project, so 2022 populations were used instead)
+
+# IowaCountiesFoodProgram.shp = shapefile for counties of Iowa, along with attribute table with food assistance rate data appended
+
+# iafoodprogram.csv = spreadsheet of county food assistance statistics. This is already found in the IowaCountiesFoodProgram.shp file attribute table, but I've included it for reference.
